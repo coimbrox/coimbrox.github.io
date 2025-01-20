@@ -1,9 +1,9 @@
 import React from "react";
 
 import { Progress, Tooltip } from "antd";
-
-import { FaCss3Alt, FaHtml5, FaNodeJs, FaReact } from "react-icons/fa";
-import { SiElixir, SiJavascript } from "react-icons/si";
+import { FaCss3Alt, FaHtml5, FaNodeJs } from "react-icons/fa";
+import { FaFlutter } from "react-icons/fa6";
+import { SiAngular, SiJavascript } from "react-icons/si";
 
 import "./style.css";
 
@@ -55,7 +55,7 @@ const Skills = () => {
 
             <div className="skill">
               <Tooltip title="Flutter">
-                <FaReact style={{ fontSize: 30 }} />
+                <FaFlutter style={{ fontSize: 30 }} />
               </Tooltip>
               <Progress
                 strokeWidth={18}
@@ -63,7 +63,7 @@ const Skills = () => {
                   from: "#108ee9",
                   to: "#87d068",
                 }}
-                percent={80}
+                percent={50}
                 status="active"
               />
             </div>
@@ -87,7 +87,7 @@ const Skills = () => {
 
             <div className="skill">
               <Tooltip title="Angular">
-                <SiElixir style={{ fontSize: 30 }} />
+                <SiAngular style={{ fontSize: 30 }} />
               </Tooltip>
               <Progress
                 strokeWidth={18}
@@ -95,7 +95,7 @@ const Skills = () => {
                   from: "#108ee9",
                   to: "#87d068",
                 }}
-                percent={20}
+                percent={80}
                 status="active"
               />
             </div>
