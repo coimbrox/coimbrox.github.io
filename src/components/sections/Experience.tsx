@@ -8,7 +8,7 @@ const experiences = [
     company: "Flexxo",
     location: "Remote",
     period: "November 2024 - Present",
-    description: "Delivering SQL and Python training focused on data analysis, empowering professionals to work with data manipulation, extraction, and visualization.",
+    description: "Delivering SQL and Python training focused on data analysis, empowering professionals to work with data manipulation, extraction and visualization.",
     technologies: ["SQL", "Python", "Data Analysis", "Training"],
     current: true
   },
@@ -26,7 +26,7 @@ const experiences = [
     company: "Marcopolo S.A",
     location: "Brazil",
     period: "November 2023 - March 2024",
-    description: "Led business intelligence initiatives, implementing data analysis and process automation solutions. Developed dashboards, reports, system integrations, and contributed to Flutter app development.",
+    description: "Led business intelligence initiatives, implementing data analysis and process automation solutions. Developed dashboards, reports, system integrations and contributed to Flutter app development.",
     technologies: ["Python", "VBA", "QlikSense", "SQL", "RPA", "Qlik Sense", "Flutter"],
     current: false
   },
@@ -35,7 +35,7 @@ const experiences = [
     company: "Google Developer Group Caxias do Sul",
     location: "Caxias do Sul, RS",
     period: "January 2023 - Present",
-    description: "Empowering the local community to explore, learn, and innovate through technology. Creating an inclusive space for developers and creatives to collaborate.",
+    description: "Empowering the local community to explore, learn and innovate through technology. Creating an inclusive space for developers and creatives to collaborate.",
     technologies: ["Community Building", "Event Management", "Technology Education"],
     current: true
   },
@@ -44,7 +44,7 @@ const experiences = [
     company: "IFRS Caxias do Sul",
     location: "Caxias do Sul, RS",
     period: "January 2023 - December 2023",
-    description: "Conducted robotics research using LEGO Classroom EV3, Python, and Arduino. Developed a Flutter app for scoring competitions and mentored teams.",
+    description: "Conducted robotics research using LEGO Classroom EV3, Python and Arduino. Developed a Flutter app for scoring competitions and mentored teams.",
     technologies: ["Python", "Arduino", "Flutter", "LEGO EV3", "Research"],
     current: false
   },
@@ -75,7 +75,7 @@ export const Experience = () => {
         <div className="text-center mb-12">
           <h2 className="text-3xl md:text-4xl font-bold mb-4 hero-text">Professional Experience</h2>
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto">
-            Building innovative solutions across Business Intelligence, Automation, and Full-Stack Development
+            Building innovative solutions across Business Intelligence, Automation and Full-Stack Development
           </p>
         </div>
 
