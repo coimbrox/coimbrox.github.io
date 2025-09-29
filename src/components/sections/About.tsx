@@ -26,15 +26,11 @@ export const About = () => {
           {/* Main Description */}
           <div className="space-y-6">
             <p className="text-lg leading-relaxed">
-              I'm a passionate technologist with expertise in <span className="text-primary font-semibold">Business Intelligence</span>, 
-              <span className="text-secondary font-semibold"> Process Automation</span>, and <span className="text-accent font-semibold">Flutter development</span>. 
-              Currently working as a BI Analyst and Instructor, I help organizations unlock the power of their data, streamline operations through intelligent automation, 
-              and build cross-platform mobile solutions with Flutter and PowerApps.
+              I'm a technology enthusiast with solid experience in <span className="text-primary font-semibold">Flutter</span> and mobile development, now focusing my career on building cross-platform apps. My background also includes extensive work with <span className="text-secondary font-semibold">Angular</span>, <span className="text-accent font-semibold">Python</span>, <span className="font-semibold text-muted-foreground">VBA</span>, and <span className="font-semibold text-muted-foreground">Progress 4GL</span>, allowing me to deliver robust solutions across different platforms and business needs.
             </p>
             
             <p className="text-lg leading-relaxed">
-              With a strong background in fullstack development and data analysis, I bridge the gap between technical implementation 
-              and business value, creating solutions that drive real impact.
+              I believe in clean code, best practices, and continuous learning. My journey spans business intelligence, process automation, and fullstack development, always aiming to create impactful solutions and drive innovation. I'm passionate about mentoring, sharing knowledge, and helping others grow in their tech careers.
             </p>
 
             {/* Key Info */}
