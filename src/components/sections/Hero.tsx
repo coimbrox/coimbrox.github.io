@@ -49,10 +49,9 @@ export const Hero = () => {
           </div>
 
           {/* Description */}
-          <p className="text-lg md:text-xl text-muted-foreground mb-12 max-w-2xl mx-auto leading-relaxed">
-            Passionate about transforming data into insights, automating processes, and building beautiful mobile apps with Flutter. 
-            Experienced in Python, Angular, QlikSense, Flutter, and creating innovative solutions for business intelligence and mobile development.
-          </p>
+            <p className="text-lg md:text-xl text-muted-foreground mb-12 max-w-2xl mx-auto leading-relaxed">
+              Flutter specialist passionate about building modern, fast, and beautiful mobile apps. Experienced in developing innovative business solutions, integrating data, automations, and intuitive interfaces using Flutter and other technologies.
+            </p>
 
           {/* Action Buttons */}
           <div className="flex flex-col sm:flex-row gap-4 justify-center items-center mb-12">
