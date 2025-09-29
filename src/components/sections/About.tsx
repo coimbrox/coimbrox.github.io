@@ -6,10 +6,10 @@ export const About = () => {
   const highlights = [
     "Business Intelligence Solutions",
     "Process Automation with Python & RPA",
-    "Data Analysis & Visualization",
+    "Flutter & Mobile App Development",
     "Fullstack Development",
     "Agile Methodologies",
-    "Team Leadership"
+    "Power Platform (PowerApps, Power Automate)",
   ];
 
   return (
