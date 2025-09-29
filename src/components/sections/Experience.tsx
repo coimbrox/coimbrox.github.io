@@ -13,12 +13,12 @@ const experiences = [
     current: true
   },
   {
-    title: "Business Intelligence Analyst",
+    title: "System Analyst",
     company: "Círculo Saúde",
     location: "Brazil",
     period: "March 2024 - Present",
-    description: "Developing and maintaining business intelligence solutions, including dashboards and reports for strategic decision-making. Working with data integration, automation, and analysis.",
-    technologies: ["Power BI", "SQL", "Python", "Data Integration", "Automation"],
+    description: "Supporting and developing solutions for TOTVS DATASUL ERP, including business intelligence dashboards and reports for strategic decision-making. Responsible for automation tasks using Python, as well as data integration and analysis.",
+    technologies: ["Power BI", "SQL", "Python", "Progress 4GL", "TOTVS DATASUL", "Data Integration", "Automation"],
     current: true
   },
   {
@@ -26,8 +26,8 @@ const experiences = [
     company: "Marcopolo S.A",
     location: "Brazil",
     period: "November 2023 - March 2024",
-    description: "Led business intelligence initiatives, implementing data analysis and process automation solutions. Developed dashboards, reports, and system integrations.",
-    technologies: ["Python", "VBA", "Power BI", "SQL", "RPA", "Qlik Sense"],
+    description: "Led business intelligence initiatives, implementing data analysis and process automation solutions. Developed dashboards, reports, system integrations, and contributed to Flutter app development.",
+    technologies: ["Python", "VBA", "Power BI", "SQL", "RPA", "Qlik Sense", "Flutter"],
     current: false
   },
   {
@@ -49,12 +49,21 @@ const experiences = [
     current: false
   },
   {
+    title: "FullStack Developer",
+    company: "GC Solutions",
+    location: "Brazil",
+    period: "January 2022 - January 2023",
+    description: "Built websites and implemented components using Angular, integrated REST APIs, created layouts. Also contributed to Flutter development projects.",
+    technologies: ["Angular", "Node.js", "REST APIs", "TypeScript", "HTML/CSS", "Flutter"],
+    current: false
+  },
+  {
     title: "Junior FullStack Developer",
     company: "TC2CODE & Solutions",
     location: "Brazil",
     period: "January 2021 - January 2023",
-    description: "Built websites and implemented components using Angular, integrated REST APIs, created layouts. First professional experience in technology.",
-    technologies: ["Angular", "Node.js", "REST APIs", "TypeScript", "HTML/CSS"],
+    description: "Built websites and implemented components using Angular, integrated REST APIs, created layouts. Also contributed to Flutter development projects.",
+    technologies: ["Angular", "Node.js", "REST APIs", "TypeScript", "HTML/CSS", "Flutter"],
     current: false
   }
 ];
