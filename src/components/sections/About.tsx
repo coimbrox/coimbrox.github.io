@@ -26,9 +26,10 @@ export const About = () => {
           {/* Main Description */}
           <div className="space-y-6">
             <p className="text-lg leading-relaxed">
-              I'm a passionate technologist with expertise in <span className="text-primary font-semibold">Business Intelligence</span> and 
-              <span className="text-secondary font-semibold"> Process Automation</span>. Currently working as a BI Analyst and Instructor, 
-              I help organizations unlock the power of their data and streamline operations through intelligent automation.
+              I'm a passionate technologist with expertise in <span className="text-primary font-semibold">Business Intelligence</span>, 
+              <span className="text-secondary font-semibold"> Process Automation</span>, and <span className="text-accent font-semibold">Flutter development</span>. 
+              Currently working as a BI Analyst and Instructor, I help organizations unlock the power of their data, streamline operations through intelligent automation, 
+              and build cross-platform mobile solutions with Flutter.
             </p>
             
             <p className="text-lg leading-relaxed">
