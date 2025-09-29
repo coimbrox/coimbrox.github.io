@@ -30,7 +30,7 @@ export const About = () => {
             </p>
             
             <p className="text-lg leading-relaxed">
-              I believe in clean code, best practices, and continuous learning. My journey spans business intelligence, process automation, and fullstack development, always aiming to create impactful solutions and drive innovation. I'm passionate about mentoring, sharing knowledge, and helping others grow in their tech careers.
+              I believe in clean code, best practices, and continuous learning. My journey spans business intelligence, process automation, and fullstack development, always aiming to create impactful solutions and drive innovation.
             </p>
 
             {/* Key Info */}
