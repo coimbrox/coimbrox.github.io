@@ -29,7 +29,7 @@ export const About = () => {
               I'm a passionate technologist with expertise in <span className="text-primary font-semibold">Business Intelligence</span>, 
               <span className="text-secondary font-semibold"> Process Automation</span>, and <span className="text-accent font-semibold">Flutter development</span>. 
               Currently working as a BI Analyst and Instructor, I help organizations unlock the power of their data, streamline operations through intelligent automation, 
-              and build cross-platform mobile solutions with Flutter.
+              and build cross-platform mobile solutions with Flutter and PowerApps.
             </p>
             
             <p className="text-lg leading-relaxed">
