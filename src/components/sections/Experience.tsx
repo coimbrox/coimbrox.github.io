@@ -18,7 +18,7 @@ const experiences = [
     location: "Brazil",
     period: "March 2024 - Present",
     description: "Supporting and developing solutions for TOTVS DATASUL ERP, including business intelligence dashboards and reports for strategic decision-making. Responsible for automation tasks using Python, as well as data integration and analysis.",
-    technologies: ["Power BI", "SQL", "Python", "Progress 4GL", "TOTVS DATASUL", "Data Integration", "Automation"],
+    technologies: ["QlikSense", "SQL", "Python", "Progress 4GL", "TOTVS DATASUL", "Data Integration", "Automation"],
     current: true
   },
   {
@@ -27,7 +27,7 @@ const experiences = [
     location: "Brazil",
     period: "November 2023 - March 2024",
     description: "Led business intelligence initiatives, implementing data analysis and process automation solutions. Developed dashboards, reports, system integrations, and contributed to Flutter app development.",
-    technologies: ["Python", "VBA", "Power BI", "SQL", "RPA", "Qlik Sense", "Flutter"],
+    technologies: ["Python", "VBA", "QlikSense", "SQL", "RPA", "Qlik Sense", "Flutter"],
     current: false
   },
   {

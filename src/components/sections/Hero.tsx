@@ -6,7 +6,7 @@ import avatarImage from "@/assets/gabriel-avatar.jpg";
 export const Hero = () => {
   const [currentText, setCurrentText] = useState("");
   const [currentIndex, setCurrentIndex] = useState(0);
-  const fullText = "Business Intelligence Developer & Automation Specialist";
+  const fullText = "FullStack Developer | Data Enthusiast | Flutter Developer";
 
   useEffect(() => {
     if (currentIndex < fullText.length) {
@@ -50,8 +50,8 @@ export const Hero = () => {
 
           {/* Description */}
           <p className="text-lg md:text-xl text-muted-foreground mb-12 max-w-2xl mx-auto leading-relaxed">
-            Passionate about transforming data into insights and automating processes. 
-            Experienced in Python, Angular, Power BI, and creating innovative solutions for business intelligence.
+            Passionate about transforming data into insights, automating processes, and building beautiful mobile apps with Flutter. 
+            Experienced in Python, Angular, QlikSense, Flutter, and creating innovative solutions for business intelligence and mobile development.
           </p>
 
           {/* Action Buttons */}

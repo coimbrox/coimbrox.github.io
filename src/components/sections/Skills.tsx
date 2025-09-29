@@ -16,7 +16,7 @@ const skillCategories = [
     icon: BarChart3,
     color: "text-tech-blue",
     skills: [
-      { name: "Power BI", level: 90 },
+      { name: "QlikSense", level: 90 },
       { name: "Qlik Sense", level: 85 },
       { name: "SQL", level: 90 },
       { name: "Data Analysis", level: 95 },
