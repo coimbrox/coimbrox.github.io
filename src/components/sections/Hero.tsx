@@ -69,7 +69,7 @@ export const Hero = () => {
               asChild
             >
               <a 
-              href="/assets/profile.pdf" 
+              href="/public/assets/profile.pdf" 
               download="Gabriel_Coimbra_profile.pdf"
               >
               <FileDown className="mr-2 h-4 w-4" />
