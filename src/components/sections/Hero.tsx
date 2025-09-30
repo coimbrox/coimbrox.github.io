@@ -66,9 +66,15 @@ export const Hero = () => {
               variant="outline" 
               size="lg"
               className="border-border hover:bg-muted"
+              asChild
             >
+              <a 
+              href="/assets/profile.pdf" 
+              download="Gabriel_Coimbra_profile.pdf"
+              >
               <FileDown className="mr-2 h-4 w-4" />
               Download CV
+              </a>
             </Button>
           </div>
 
